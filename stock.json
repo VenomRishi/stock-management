@@ -1,0 +1,24 @@
+{
+  "stockList": [
+    {
+      "nameOfStock": "Reliance",
+      "numberOfShare": 100,
+      "sharePrice": 10
+    },
+    {
+      "nameOfStock": "Tata",
+      "numberOfShare": 80,
+      "sharePrice": 15
+    },
+    {
+      "nameOfStock": "Infosys",
+      "numberOfShare": 110,
+      "sharePrice": 12
+    },
+    {
+      "nameOfStock": "Cognizant",
+      "numberOfShare": 120,
+      "sharePrice": 12
+    }
+  ]
+}
